@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <h1>Skand Frontend Task - Mingyang Hou</h1>
+        <h1>Skand Frontend Task_auto deploy on aws - Mingyang Hou</h1>
       </header>
     </div>
   );
